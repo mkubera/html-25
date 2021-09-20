@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+.third-paragraph {
+  width: 50%;
+  padding: 25px;
+  padding-top: 50px;
+  border: 25px solid #000;
+  text-align: center;
+}
+
+.bg-orange {
+  background-color: orange;
+}
+
+.inline {
+  display: inline-block;
+  width: 25%;
+  margin: 0;
+  padding: 0;
+}
+
+.hidden {
+  display: none;
+}
